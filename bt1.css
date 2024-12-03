@@ -1,0 +1,26 @@
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#content {
+    margin: auto;
+    width: 630px;
+    border: 1px solid lightslategray;
+}
+
+#content h2 {
+    margin-left: 20px;
+}
+
+#content p {
+    margin-left: 20px;
+}
+
+#content img {
+    width: 600px;
+    height: 400px;
+    text-align: center;
+    margin-left: 20px;
+}

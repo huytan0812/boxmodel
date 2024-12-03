@@ -1,0 +1,44 @@
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+#main-content {
+    width: 1200px;
+    margin: auto;
+}
+
+#header {
+    background-color: red;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+#content {
+    margin-top: 0;
+    background-color: green;
+}
+
+#content h2 {
+    margin-top: 0px;
+    margin-left: 20px;
+    padding-top: 50px;
+}
+
+#content p {
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#footer {
+    background-color: blue;
+    width: 1200px;
+    height: 50px;
+    margin-top: 0px;
+}

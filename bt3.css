@@ -1,0 +1,26 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    width: 100%;
+}
+
+div {
+    background-color: #1b1b1b;
+    padding: 10px;
+}
+
+span {
+    color: white;
+    margin-left: 10px;
+    cursor: pointer;
+    padding: 5px;
+}
+
+#home {
+    background-color: lightslategray;
+    border-radius: 4px;
+}
